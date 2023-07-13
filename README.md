@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DashboardMantra
 MantraDashboard is a modern web application built with Next.js 13 and TypeScript, designed to provide a powerful and intuitive user interface for managing various aspects of a project or system.
 
@@ -23,7 +22,6 @@ The primary goal of MantraDashboard is to offer a feature-rich and customizable 
 8. Developer Tools and Documentation: MantraDashboard offers a comprehensive set of development tools, including hot reloading, code splitting, and advanced debugging capabilities. Additionally, it provides thorough documentation, guiding developers on how to get started, customize the dashboard, and make the most of its features.
 
 Overall, MantraDashboard powered by Next.js 13 and TypeScript is a flexible and customizable solution for building sophisticated web-based dashboards. It empowers developers to create visually appealing, performant, and scalable dashboard applications that cater to a wide range of project management and data visualization needs.
-=======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
