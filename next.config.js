@@ -1,14 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async redirects() {
+  /*async redirects() {
     return [
       {
         source: '/',
-        destination: 'https://simandhareducation.com',
+        destination: 'https://abc.com',
         permanent: true,
       },
     ];
-  },
+  },*/
   env: {
     APP_URL: 'http://localhost:3010/api/v1/',
     ACCESS_TOKEN: 'bc7fa89893c47504d75fb25af75520486cff530278fcac776b78b1b50a583efa',
